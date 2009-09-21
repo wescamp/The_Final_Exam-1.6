@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-09-13 18:09+0200\n"
+"POT-Creation-Date: 2009-09-21 22:02+0200\n"
 "PO-Revision-Date: 2009-09-14 23:14+0100\n"
 "Last-Translator: Stanislav Hoferek <shoferek@gmail.com>\n"
 "Language-Team: none\n"
@@ -185,7 +185,7 @@ msgid "Way into caves is clear now."
 msgstr "Cesta do jaskyne je konečne voľná."
 
 #. [message]: speaker=unit
-#: The_Final_Exam/scenarios/2_Cave.cfg:264
+#: The_Final_Exam/scenarios/2_Cave.cfg:255
 #: The_Final_Exam/scenarios/1_Village.cfg:193
 msgid "Oh, no! I hope this blood is not mine!"
 msgstr "Ah nie! Dúfam, že tá krv nie je moja!"
@@ -245,22 +245,21 @@ msgid "I can't take this book. Only Erika can take it."
 msgstr "Nemôžem zobrať túto knihu. Len Erika ju môže zobrať."
 
 #. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:178
-msgid ""
-"I found the book. My quest here is almost over. Now I only have to get out "
-"of here. Maybe this book can help me. Moment, here is something... entering "
-"a magic door from dark places... Nuva Esttenias Telune Illuminatum!"
-msgstr ""
-"Našla som knihu. Moja úloha je takmer splnená. už sa len dostať odtiaľto. "
-"Moment, tu je niečo... otvorenie magických dvier z temných miest... Nuva "
-"Esttenias Telune Illuminatum!"
-
-#. [message]: speaker=Erika
-#: The_Final_Exam/scenarios/2_Cave.cfg:206
+#: The_Final_Exam/scenarios/2_Cave.cfg:194
 msgid "Great, I made it! I will be ranked as a true mage!"
 msgstr "Paráda, podarilo sa! Odteraz som už skutočnou mágyňou!"
 
 #. [message]: speaker=unit
-#: The_Final_Exam/scenarios/2_Cave.cfg:232
+#: The_Final_Exam/scenarios/2_Cave.cfg:223
 msgid "We found 25 gold coins."
 msgstr "Našli sme 25 zlatiek."
+
+#~ msgid ""
+#~ "I found the book. My quest here is almost over. Now I only have to get "
+#~ "out of here. Maybe this book can help me. Moment, here is something... "
+#~ "entering a magic door from dark places... Nuva Esttenias Telune "
+#~ "Illuminatum!"
+#~ msgstr ""
+#~ "Našla som knihu. Moja úloha je takmer splnená. už sa len dostať odtiaľto. "
+#~ "Moment, tu je niečo... otvorenie magických dvier z temných miest... Nuva "
+#~ "Esttenias Telune Illuminatum!"
